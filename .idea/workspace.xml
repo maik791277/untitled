@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa10421c-4c48-47d4-bf61-bfc503ac7d3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crayon icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flag icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gears icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rocket icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotoki/0dd242358712c693ae5a691aa6255c8c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotoki/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotoki/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotoki/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotoki/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sait_lab2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sait_stel.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ijlk4ZuIov4ZMwmZs1KG5EfMEI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\potil\PhpstormProjects\untitled\fotoki" />
+      <recent name="C:\Users\potil\PhpstormProjects\untitled" />
+      <recent name="C:\Users\potil\PhpstormProjects\untitled\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa10421c-4c48-47d4-bf61-bfc503ac7d3d" name="Default Changelist" comment="" />
+      <created>1602429022154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602429022154</updated>
+      <workItem from="1602429023382" duration="17621000" />
+      <workItem from="1602454528330" duration="4855000" />
+      <workItem from="1602510079353" duration="32745000" />
+      <workItem from="1602598387831" duration="63000" />
+      <workItem from="1602598617328" duration="87000" />
+      <workItem from="1603307982700" duration="897000" />
+      <workItem from="1603496084576" duration="190000" />
+      <workItem from="1603568726253" duration="914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602430114075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602430114075" />
+    <state x="1220" y="261" key="FileChooserDialogImpl" timestamp="1602598443065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602598443065" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1602598639790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602598639790" />
+    <state x="777" y="225" key="Github.UntrackedFilesDialog" timestamp="1602598647377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602598647377" />
+    <state x="629" y="0" width="1307" height="986" key="dock-window-1" timestamp="1602438590050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="0" width="1307" height="986" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1602438590050" />
+  </component>
+</project>
